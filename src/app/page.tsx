@@ -126,16 +126,16 @@ active:text-[var(--main-color)]"
       <section className={`bg-cover bg-center transition-opacity duration-300 ${isSidebarOpen ? "opacity-50" : "opacity-100"}`} id="home">
         <div className="home-content">
           <h1>
-            Hi, I'm<span> Muhammad Alwaz</span>{" "}
+            Hi, I am<span> Muhammad Alwaz</span>{" "}
           </h1>
           <div className="text-animated">
             <h3>Full Stack Developer</h3>
           </div>
           <p>
-            I'm a passionate Full Stack Developer currently honing my skills at
+            I am a passionate Full Stack Developer currently honing my skills at
             PIAIC. On the front-end, I've mastered Next.js and Tailwind CSS,
             creating responsive and dynamic user interfaces. As I continue my
-            journey, I’m diving deeper into back-end technologies to build
+            journey, I am diving deeper into back-end technologies to build
             comprehensive, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
@@ -155,7 +155,7 @@ active:text-[var(--main-color)]"
               }
               className="btn" target="_blank"
             >
-              Let's talk
+              Lets talk
             </Link>
           </div>
           <div className="flex-space-x-4 home-sci">
@@ -208,10 +208,10 @@ active:text-[var(--main-color)]"
         <div className="about-content">
           <h2>Full Stack Developer</h2>
           <p className="about-para">
-            I'm a passionate Full Stack Developer currently honing my skills at
+            I am a passionate Full Stack Developer currently honing my skills at
             PIAIC. On the front-end, I've mastered Next.js and Tailwind CSS,
             creating responsive and dynamic user interfaces. As I continue my
-            journey, I’m diving deeper into back-end technologies to build
+            journey, I'm diving deeper into back-end technologies to build
             comprehensive, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
@@ -267,7 +267,7 @@ active:text-[var(--main-color)]"
                   <p>
                     A classic Rock-Paper-Scissors game. It allows players to
                     enter their name, choose between rock, paper, and scissors,
-                    and then compares their choice to a computer's random
+                    and then compares their choice to a computer random
                     selection. The game displays the winner and offers the
                     option to play again.
                     <Link
@@ -315,7 +315,7 @@ active:text-[var(--main-color)]"
                   </div>
                   <p>
                   This TypeScript code simulates a simple ATM with a command-line interface (CLI).
-                  Users can choose to "Sign in" using predefined credentials. Upon successful login, they can check their balance, withdraw cash (limited by available funds), or choose pre-defined "Fast cash" amounts. The program uses inquirer for user prompts and chalk for colored output.
+                  Users can choose to Sign in using predefined credentials. Upon successful login, they can check their balance, withdraw cash (limited by available funds), or choose pre-defined Fast cash amounts. The program uses inquirer for user prompts and chalk for colored output.
                     <Link
                       href=""
                       className="text-blue-500 
