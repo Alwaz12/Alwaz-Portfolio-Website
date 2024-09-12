@@ -16,10 +16,10 @@
 
 
   :root {
-    --bg-color: #651cc4;
+    --bg-color: #0b080f;
     --text-color: rgb(237, 237, 237);
     --second-bg-color: #0c0079;
-    --main-color: #2b2d42;
+    --main-color: #1e2dd4;
 
   }
 
@@ -247,21 +247,7 @@
   }
 
 
-  .home-imgHover {
-    position: absolute;
-    top: 15rem;
-    right: 0;
-    width: 45%;
-    height: 88%;
-    background: transparent;
-    transition: 3s;
-  }
-
-  .home-imgHover:hover {
-    background: var(--bg-color);
-    opacity: .8;
-  }
-
+ 
   .about {
     display: flex;
     justify-content: center;
