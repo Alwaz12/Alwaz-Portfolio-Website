@@ -249,7 +249,7 @@ active:text-[var(--main-color)]"
                     using Chalk, and features an interactive interface with
                     Inquirer.
                     <Link
-                      href=""
+                      href="https://github.com/Alwaz12/SimpleCalculator00.git"
                       className="text-blue-500 hover:underline ml-2"
                       target="_blank"
                     >
@@ -262,16 +262,12 @@ active:text-[var(--main-color)]"
               <div className="education-content">
                 <div className="content">
                   <div className="year">
-                    <h3>Rock-Paper-Scissors</h3>
+                    <h3>Student-Management-System</h3>
                   </div>
                   <p>
-                    A classic Rock-Paper-Scissors game. It allows players to
-                    enter their name, choose between rock, paper, and scissors,
-                    and then compares their choice to a computer random
-                    selection. The game displays the winner and offers the
-                    option to play again.
+                  A student management system (SMS) is a comprehensive software application designed to streamline and organize various administrative tasks related to student information and academic processes. It helps educational institutions manage data related to students, faculty, courses, grades, and more. Here an overview of the key features and components of a typical student management system:
                     <Link
-                      href=""
+                      href="https://github.com/Alwaz12/project06_student_management_system.git"
                       className="text-blue-500 
                       hover:underline ml-2"
                       target="_blank"
@@ -291,7 +287,7 @@ active:text-[var(--main-color)]"
                   A number guessing game. Computer generate a random number.
                   Then user is prompted to guess a randomly generated number between 1 and 10. If the guess is correct, the game ends with a congratulatory message. If the guess is incorrect, the user is provided with feedback (too high or too low) and allowed to try again until they guess correctly.
                     <Link
-                      href=""
+                      href="https://github.com/Alwaz12/project01-number-guessing-game.git"
                       className="text-blue-500 hover:underline ml-2"
                       target="_blank"
                     >
@@ -317,7 +313,7 @@ active:text-[var(--main-color)]"
                   This TypeScript code simulates a simple ATM with a command-line interface (CLI).
                   Users can choose to Sign in using predefined credentials. Upon successful login, they can check their balance, withdraw cash (limited by available funds), or choose pre-defined Fast cash amounts. The program uses inquirer for user prompts and chalk for colored output.
                     <Link
-                      href=""
+                      href="https://github.com/Alwaz12/ATM-MACHINE.git"
                       className="text-blue-500 
                       hover:underline ml-2"
                       target="_blank"
@@ -337,7 +333,7 @@ active:text-[var(--main-color)]"
                   A simple to-do list application.
                   Users are prompted to enter tasks, which are added to a list. The program continues to ask for more tasks until the user confirms they are finished. Finally, the completed to-do list is displayed.
                     <Link
-                      href=""
+                      href="https://github.com/Alwaz12/project_03_todo_list_app.git"
                       className="text-blue-500 
                        hover:underline ml-2"
                       target="_blank"
