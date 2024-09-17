@@ -353,7 +353,7 @@ active:text-[var(--main-color)]"
                   A currency converter with a user-friendly. Users can select the currency they want to convert from and to,
                   as well as enter the amount. The program utilizes a defined exchange rate object to calculate the equivalent amount in the desired currency. Finally, it displays the converted amount with clear formatting.
                     <Link
-                      href=""
+                      href="https://github.com/Alwaz12/project04_currency_converter.git"
                       className="text-blue-500 
                        hover:underline ml-2"
                       target="_blank"
