@@ -34,7 +34,7 @@ export default function Home() {
         </div>
         <nav className="navbar">
           <Sheet open={isSidebarOpen} onOpenChange={setIsSidebarOpen}>
-            <SheetTrigger className="tablet:hidden">
+            <SheetTrigger className="md:hidden">
               <Menu className="menu-icon mr-4" />
             </SheetTrigger>
             <SheetContent className="pt-4 text-3xl">
@@ -71,7 +71,7 @@ export default function Home() {
               <br />
             </SheetContent>
           </Sheet>
-          <ul className="hidden tablet:flex gap-x-8 text-[1.7rem]">
+          <ul className="hidden md:flex gap-x-8 text-[1.7rem]">
             <li>
               <Link
                 className="text-[var(--text-color)] font-bold ml-[3.5rem] transition duration-300 hover:text-[var(--main-color)] 
