@@ -3,7 +3,7 @@ import Link from "next/link";
  import Image from "next/image";
 import LinkedInIcon from "@mui/icons-material/LinkedIn";
 import GitHubIcon from "@mui/icons-material/GitHub";
-import XIcon from "@mui/icons-material/X";
+import FacebookIcon from "@mui/icons-material/Facebook";
 import ArrowUpwardIcon from "@mui/icons-material/ArrowUpward";
 import { Menu } from "lucide-react";
 import { useState } from "react";
@@ -175,11 +175,11 @@ active:text-[var(--main-color)]"
               <GitHubIcon className="icon" sx={{ fontSize: 25 }} />
             </Link>
             <Link
-              href={""}
+              href={"https://www.facebook.com/profile.php?id=100091643684710"}
               target="_blank"
               className="bx-bx1-x"
             >
-              <XIcon className="icon" sx={{ fontSize: 25 }} />
+              <FacebookIcon className="icon" sx={{ fontSize: 25 }} />
             </Link>
           </div>
         </div>
