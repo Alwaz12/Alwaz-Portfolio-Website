@@ -423,7 +423,6 @@ active:text-[var(--main-color)]"
           {/* ----------------------For another Column--------------------------- */}
 
           <div className="skills-column">
-            <h3 className="title">Professional Skills</h3>
             <div className="skills-box">
               <div className="skills-content">
                 <div className="progress">
