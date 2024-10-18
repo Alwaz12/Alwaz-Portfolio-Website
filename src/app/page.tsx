@@ -54,6 +54,13 @@ export default function Home() {
               <br />
               <br />
               <Link href={"#education"} onClick={closeSidebar}>
+                Journey
+              </Link>
+              <br />
+              <br />
+              <br />
+             
+              <Link href={"#project"} onClick={closeSidebar}>
                 Project
               </Link>
               <br />
@@ -96,7 +103,16 @@ active:text-[var(--main-color)]"
 active:text-[var(--main-color)]"
                 href={"#education"}
               >
-                Project
+                Journey
+              </Link>
+            </li>
+            <li>
+              <Link
+                className="text-[var(--text-color)] font-bold ml-[3.5rem] transition duration-300 hover:text-[var(--main-color)] 
+active:text-[var(--main-color)]"
+                href={"#project"}
+              >
+                Projects
               </Link>
             </li>
             <li>
@@ -223,12 +239,109 @@ active:text-[var(--main-color)]"
           </div>
         </div>
       </section>
-
       {/* -----------------------project section--------------------------- */}
 
       <section className="education" id="education">
         <h2 className="heading">
-          My <span>Projects </span>
+          My <span>Journey </span>
+        </h2>
+
+        <div className="education-row">
+          <div className="education-column">
+            <h3 className="title">Education</h3>
+
+            <div className="education-box">
+              <div className="education-content">
+                <div className="content">
+                  <div className="year">
+                    <h3>Education Trust Nasra Secondary School (D.C.H.S) Campus</h3>
+                  </div>
+                  <p>
+                    Matriculation, Computer Science (2020-2022) 
+                    
+                    Grade A+
+                    
+                  </p>
+                </div>
+              </div>
+
+              <div className="education-content">
+                <div className="content">
+                  <div className="year">
+                    <h3>Jamia Millia Goverment College Morning (Shah Faisal Colony)</h3>
+                  </div>
+                  <p>
+                    Intermediate, Computer Science (2021-2024) Grade A
+                      
+                  </p>
+                </div>
+              </div>
+
+              <div className="education-content">
+                <div className="content">
+                  <div className="year">
+                    <h3>PIAIC</h3>
+                  </div>
+                  <p>
+                    Certified Cloud Applied Generative AI Engineer (2024-Present)
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* --------------2nd column----------- */}
+
+          <div className="education-column">
+            <h3 className="title">Experience</h3>
+            <div className="education-box">
+              <div className="education-content">
+                <div className="content">
+                  <div className="year">
+                    <h3>PIAIC</h3>
+                  </div>
+                  <p>
+                     Full Stack Developer (March 2024 - Present)
+                    
+                  </p>
+                </div>
+              </div>
+
+              <div className="education-content">
+                <div className="content">
+                  <div className="year">
+                    <h3>Bharat Intern</h3>
+                  </div>
+                  <p>
+                      Full Stack Developer (July 2024 - August 2024)
+                    
+                  </p>
+                </div>
+              </div>
+
+              <div className="education-content">
+                <div className="content">
+                  <div className="year">
+                    <h3>CognoRise Info Tech</h3>
+                  </div>
+                  <p>
+                      App Developer Next.Js (September 2024 - October 2024)
+                    
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+    
+      {/* -----------------------project section--------------------------- */}
+
+      <section className="education" id="project">
+        <h2 className="heading">
+          My <span>Project </span>
         </h2>
 
         <div className="education-row">
