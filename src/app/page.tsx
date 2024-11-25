@@ -142,16 +142,16 @@ active:text-[var(--main-color)]"
       <section className={`bg-cover bg-center transition-opacity duration-300 ${isSidebarOpen ? "opacity-50" : "opacity-100"}`} id="home">
         <div className="home-content">
           <h1>
-            Hi, I am<span> Muhammad Alwaz</span>{" "}
+            Hi, I'm<span> Muhammad Alwaz</span>{" "}
           </h1>
           <div className="text-animated">
-            <h3>Full Stack Developer</h3>
+            <h3>Front-End Developer</h3>
           </div>
           <p>
-            I am a passionate Full Stack Developer currently honing my skills at
+            I'm a passionate Full Stack Developer currently honing my skills at
             PIAIC. On the front-end, I ve mastered Next.js and Tailwind CSS,
             creating responsive and dynamic user interfaces. As I continue my
-            journey, I am diving deeper into back-end technologies to build
+            journey, I'm diving deeper into back-end technologies to build
             comprehensive, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
@@ -222,12 +222,12 @@ active:text-[var(--main-color)]"
     </div>
 
         <div className="about-content">
-          <h2>Full Stack Developer</h2>
+          <h2>Front-End Developer</h2>
           <p className="about-para">
-            I am a passionate Full Stack Developer currently honing my skills at
+            I'm a passionate Full Stack Developer currently honing my skills at
             PIAIC. On the front-end, I ve mastered Next.js and Tailwind CSS,
             creating responsive and dynamic user interfaces. As I continue my
-            journey, I am diving deeper into back-end technologies to build
+            journey, I'm diving deeper into back-end technologies to build
             comprehensive, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
@@ -283,7 +283,7 @@ active:text-[var(--main-color)]"
                     <h3>PIAIC</h3>
                   </div>
                   <p>
-                    Certified Cloud Applied Generative AI Engineer (2024-Present)
+                    Certified Agentic And Robotic AI Engineer (2024-Present)
                     
                   </p>
                 </div>
@@ -302,7 +302,7 @@ active:text-[var(--main-color)]"
                     <h3>PIAIC</h3>
                   </div>
                   <p>
-                     Full Stack Developer (March 2024 - Present)
+                     Front-End Developer (March 2024 - Present)
                     
                   </p>
                 </div>
