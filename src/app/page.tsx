@@ -59,13 +59,6 @@ export default function Home() {
               <br />
               <br />
               <br />
-             
-              <Link href={"#project"} onClick={closeSidebar}>
-                Project
-              </Link>
-              <br />
-              <br />
-              <br />
               <Link href={"#skills"} onClick={closeSidebar}>
                 Skills
               </Link>
@@ -110,15 +103,6 @@ active:text-[var(--main-color)]"
               <Link
                 className="text-[var(--text-color)] font-bold ml-[3.5rem] transition duration-300 hover:text-[var(--main-color)] 
 active:text-[var(--main-color)]"
-                href={"#project"}
-              >
-                Projects
-              </Link>
-            </li>
-            <li>
-              <Link
-                className="text-[var(--text-color)] font-bold ml-[3.5rem] transition duration-300 hover:text-[var(--main-color)] 
-active:text-[var(--main-color)]"
                 href={"#skills"}
               >
                 Skills
@@ -148,10 +132,10 @@ active:text-[var(--main-color)]"
             <h3>Front-End Developer</h3>
           </div>
           <p>
-            Im a passionate Full Stack Developer currently honing my skills at
+            I am a passionate Full Stack Developer currently honing my skills at
             PIAIC. On the front-end, I ve mastered Next.js and Tailwind CSS,
             creating responsive and dynamic user interfaces. As I continue my
-            journey, Im diving deeper into back-end technologies to build
+            journey, I am diving deeper into back-end technologies to build
             comprehensive, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
@@ -224,10 +208,10 @@ active:text-[var(--main-color)]"
         <div className="about-content">
           <h2>Front-End Developer</h2>
           <p className="about-para">
-            Im a passionate Full Stack Developer currently honing my skills at
+            I am a passionate Full Stack Developer currently honing my skills at
             PIAIC. On the front-end, I ve mastered Next.js and Tailwind CSS,
             creating responsive and dynamic user interfaces. As I continue my
-            journey, Im diving deeper into back-end technologies to build
+            journey, I am diving deeper into back-end technologies to build
             comprehensive, full-stack applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
