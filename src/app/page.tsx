@@ -126,7 +126,7 @@ active:text-[var(--main-color)]"
       <section className={`bg-cover bg-center transition-opacity duration-300 ${isSidebarOpen ? "opacity-50" : "opacity-100"}`} id="home">
         <div className="home-content">
           <h1>
-            Hi, I'm<span> Muhammad Alwaz</span>{" "}
+            Hi, I am<span> Muhammad Alwaz</span>{" "}
           </h1>
           <div className="text-animated">
             <h3>Front-End Developer</h3>
