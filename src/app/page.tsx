@@ -130,16 +130,11 @@ active:text-[var(--main-color)]"
           </h1>
          <div>
             
-    {
+    
         strings: [" ",
             "Developer",
         ],
-        typeSpeed: 100,
-        backSpeed: 60,
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
-        
-    }
-)
+                                                                                                                                                                                                                                                                                                                                                                          
      <div/>
           <p>
             I am a passionate Front-End Developer currently honing my skills at
