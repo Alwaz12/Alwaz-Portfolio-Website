@@ -129,7 +129,7 @@ active:text-[var(--main-color)]"
             Hi, I am<span> Muhammad Alwaz</span>{" "}
           </h1>
          <div>
-            var typed = new Typed(".typewriter-text ",
+            
     {
         strings: [" ",
             "Developer",
