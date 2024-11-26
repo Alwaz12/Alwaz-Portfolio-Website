@@ -128,14 +128,9 @@ active:text-[var(--main-color)]"
           <h1>
             Hi, I am<span> Muhammad Alwaz</span>{" "}
           </h1>
-         <div>
-            
-    
-        strings: [" ",
-            "Developer",
-        ],
-                                                                                                                                                                                                                                                                                                                                                                          
-     <div/>
+         <div className="typewriter-text-animated">
+            <h3>Front-End Developer</h3>
+          </div>
           <p>
             I am a passionate Front-End Developer currently honing my skills at
             PIAIC. On the front-end, I ve mastered HTML,CSS and Java,
