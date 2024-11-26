@@ -128,8 +128,8 @@ active:text-[var(--main-color)]"
           <h1>
             Hi, I am<span> Muhammad Alwaz</span>{" "}
           </h1>
-         <div className="typewriter-text-animated">
-            <h3>Front-End Developer</h3>
+         <div className="text-animated">
+          {Front-End Developer,Full stack Developer}
           </div>
           <p>
             I am a passionate Front-End Developer currently honing my skills at
