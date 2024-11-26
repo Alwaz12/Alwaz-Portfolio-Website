@@ -128,9 +128,26 @@ active:text-[var(--main-color)]"
           <h1>
             Hi, I am<span> Muhammad Alwaz</span>{" "}
           </h1>
-          <div className="text-animated">
-            <h3>Front-End Developer</h3>
-          </div>
+            var typed = new Typed(".typewriter-text ",
+    {
+        strings: [" ",
+            "Developer",
+           
+            "Designer",
+           
+            "Freelancer",
+           
+            "Blogger",
+           
+            " Youtuber"
+        ],
+        typeSpeed: 100,
+        backSpeed: 60,
+        loop:true,
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+        
+    }
+)
           <p>
             I am a passionate Front-End Developer currently honing my skills at
             PIAIC. On the front-end, I ve mastered HTML,CSS and Java,
