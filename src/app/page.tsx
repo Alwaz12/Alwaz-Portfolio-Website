@@ -132,11 +132,11 @@ active:text-[var(--main-color)]"
             <h3>Front-End Developer</h3>
           </div>
           <p>
-            I am a passionate Full Stack Developer currently honing my skills at
-            PIAIC. On the front-end, I ve mastered Next.js and Tailwind CSS,
+            I am a passionate Front-End Developer currently honing my skills at
+            PIAIC. On the front-end, I ve mastered HTML,CSS and Java,
             creating responsive and dynamic user interfaces. As I continue my
             journey, I am diving deeper into back-end technologies to build
-            comprehensive, full-stack applications. Stay tuned as I continue to
+            comprehensive, front-End applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
 
@@ -208,11 +208,11 @@ active:text-[var(--main-color)]"
         <div className="about-content">
           <h2>Front-End Developer</h2>
           <p className="about-para">
-            I am a passionate Full Stack Developer currently honing my skills at
-            PIAIC. On the front-end, I ve mastered Next.js and Tailwind CSS,
+            I am a passionate Front-End Developer currently honing my skills at
+            PIAIC. On the front-end, I ve mastered HTML,CSS and Java,
             creating responsive and dynamic user interfaces. As I continue my
             journey, I am diving deeper into back-end technologies to build
-            comprehensive, full-stack applications. Stay tuned as I continue to
+            comprehensive, front-End applications. Stay tuned as I continue to
             expand my skill set and bring innovative ideas to life!
           </p>
 
@@ -238,7 +238,7 @@ active:text-[var(--main-color)]"
               <div className="education-content">
                 <div className="content">
                   <div className="year">
-                    <h3>Education Trust Nasra Secondary School (D.C.H.S) Campus</h3>
+                    <h3>Education Trust Nasra Secondary School (D.H.S) Campus</h3>
                   </div>
                   <p>
                     Matriculation, Computer Science (2020-2022) 
@@ -255,7 +255,7 @@ active:text-[var(--main-color)]"
                     <h3>Jamia Millia Goverment College Morning (Shah Faisal Colony)</h3>
                   </div>
                   <p>
-                    Intermediate, Computer Science (2021-2024) Grade A
+                    Intermediate, Computer Science (2021-2024) Grade A+
                       
                   </p>
                 </div>
@@ -471,7 +471,7 @@ active:text-[var(--main-color)]"
 
       <footer className="footer">
         <div className="footer-text">
-          <p>Copyright &copy; 2024 by Alwaz | All Right Reserved.</p>
+          <p>Copyright &copy; Alwaz | All Right Reserved.</p>
         </div>
 
         <div className="footer-iconTop">
